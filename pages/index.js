@@ -106,7 +106,7 @@ export default function Home({data}) {
       <div className="max-w-7xl">
         <div>
           <p className="mt-4 max-w-2xl text-xl text-gray-500 px-4">
-            Filter photos by date
+            Select a date to begin your Mars Rover Search
           </p>
         </div>
       </div>
